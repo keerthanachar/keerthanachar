@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/keerthanacharya8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keerthanacharya8" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/keerthanacharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keerthanacharya8" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/keerthan achar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="keerthan achar" height="30" width="40" /></a>
 <a href="https://fb.com/keerthan acharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="keerthan acharya" height="30" width="40" /></a>
 <a href="https://instagram.com/programed_heart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="programed_heart" height="30" width="40" /></a>
